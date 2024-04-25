@@ -21,8 +21,8 @@ This repository contains a C++ code example demonstrating the usage of the align
 ## Example
 
 ```cpp
-Alignment of char Buffer:		2
-Alignment of int Buffer:		1
-Value of int Buffer:			4294967295
+Alignment of char Buffer:	2
+Alignment of int Buffer:	1
+Value of int Buffer:		4294967295
 Alignment of Aligned Structure: 16
 ```
